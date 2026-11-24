@@ -1,0 +1,15 @@
+{
+ "name": "qari",
+ "version": "1.0.0",
+ "scripts": {
+  "start": "npx serve ."
+ },
+ "dependencies": {
+  "@capacitor/core": "^6",
+  "@capacitor/android": "^6",
+  "@capacitor/app": "^6"
+ },
+ "devDependencies": {
+  "@capacitor/cli": "^6"
+ }
+}
